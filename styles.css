@@ -1,0 +1,24 @@
+html {
+    font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-style: normal;  color: #000000;
+    background-color: #f1dbba;
+}
+
+h1 {
+    margin-left: 15%;
+    background-color: rgb(252, 199, 108);
+    border-color: #000000;
+    border-radius: 5px;
+    padding: 5px;
+    padding-top: 5px;
+    display: inline;
+}
+
+.photos
+{
+    border-radius: 10px;
+    width: 70%;
+    margin: 10px;
+    margin-left: 15%;
+}
