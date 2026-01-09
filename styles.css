@@ -7,7 +7,7 @@ html {
 
 h1 {
     margin-left: 15%;
-    background-color: rgb(252, 199, 108);
+    background-color: #fcc76c;
     border-color: #000000;
     border-radius: 5px;
     padding: 5px;
@@ -21,4 +21,14 @@ h1 {
     width: 70%;
     margin: 10px;
     margin-left: 15%;
+}
+#rating
+{
+    padding-left: 125px;
+    margin-left: 35%;
+    background-color: #ffffff;
+    display: flex;
+    max-width: 25%;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
